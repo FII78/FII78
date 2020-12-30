@@ -1,7 +1,14 @@
-### Hi there 👋
 
-<!--
-**FII78/FII78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello 👋🏾 👩🏾‍💻
+
+Hi, I'm Fitsum! I'm a software engineer who is passionate about technology, creating technology to elevate people, and building community. 
+
+Find me around the web 🌎:
+- Learning in public on <a href="https://www.twitch.tv/Fii78">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/Fii78"> Kaggle</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/Fitsum-Sileshi/">LinkedIn</a> 💼
+
+
 
 Here are some ideas to get you started:
 
