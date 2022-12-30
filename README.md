@@ -43,6 +43,7 @@ I want to work with senior engineers, PMs, designers, and other stakeholders on 
 
 
 ![@fii78's GitHub stats](https://github-readme-stats.vercel.app/api?username=fii78&hide=stars,issues&count_private=true&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fii78&layout=compact)
 <br><br>
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=fii78&theme=transparent") 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fii78&layout=compact)
+
