@@ -1,6 +1,6 @@
 ### Hi there 👋 👩🏾‍💻  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/fitsum-sileshi)
 
-My experience largely involves on full stack development (backend engineering and frontend engineering) and cloud infrastructure, and I believe I can gain more expertise on my current experience allowing me to learn and contribute at the same time. 
+My experience largely involves on full stack development [backend engineering and frontend engineering] and cloud infrastructure, and I believe I can gain more expertise on my current experience allowing me to learn and contribute at the same time. 
 
 I want to work with senior engineers, PMs, designers, and other stakeholders on both the project planning and architecture of the project.
 
