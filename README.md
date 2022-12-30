@@ -12,5 +12,5 @@ I want to work with senior engineers, PMs, designers, and other stakeholders on 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fii78&layout=compact)
 <br><br>
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=fii78&theme=transparent") 
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=fii78&theme=dark") 
 
