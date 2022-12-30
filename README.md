@@ -42,5 +42,7 @@ I want to work with senior engineers, PMs, designers, and other stakeholders on 
 - 📫 How to reach me: fitsum.sileshi@a2SV.org | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/fitsum-sileshi)
 
 
-![@fii78's GitHub stats](https://github-readme-stats.vercel.app/api?username=fii78&hide=stars,issues&count_private=true&show_icons=true&theme=transparent) ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=fii78&theme=transparent") 
+![@fii78's GitHub stats](https://github-readme-stats.vercel.app/api?username=fii78&hide=stars,issues&count_private=true&show_icons=true&theme=transparent) 
+<br><br>
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=fii78&theme=transparent") 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fii78&layout=compact)
