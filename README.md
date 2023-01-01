@@ -10,7 +10,7 @@ I want to work with senior engineers, PMs, designers, and other stakeholders on 
 - 📫 How to reach me: fitsum.sileshi@a2SV.org
 - I work on Quantum Computing in my free time!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fii78&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fii78&layout=compact) -->
 <br><br>
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=fii78&theme=dark") 
 
