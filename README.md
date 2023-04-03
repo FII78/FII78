@@ -6,9 +6,7 @@ I want to work with senior engineers, PMs, designers, and other stakeholders on 
 
 - 🌱 I’m currently learning about Cloud and Security.
 - 👩‍💻  I'm interested in working on any tech projects. 
-- 🍀 I’m working on a health care project that will give back to the community!
-- 📫 How to reach me: fitsum.sileshi@a2SV.org
-- I work on Quantum Computing in my free time!
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fii78&layout=compact) -->
 <br><br>
